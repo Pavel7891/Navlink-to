@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Navlink-to/static/css/main.bbeb1913.css",
+    "main.js": "/Navlink-to/static/js/main.b62db145.js",
+    "index.html": "/Navlink-to/index.html",
+    "main.bbeb1913.css.map": "/Navlink-to/static/css/main.bbeb1913.css.map",
+    "main.b62db145.js.map": "/Navlink-to/static/js/main.b62db145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbeb1913.css",
+    "static/js/main.b62db145.js"
+  ]
+}
